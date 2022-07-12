@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chromaticcoder
+- 👋 Hi, I’m @chromaticcoder [aka Parth Vibhandik]
 - 👀 I’m interested in C,Robotics, Java, Python
 - 🌱 I’m currently learning Computer vision
 - 💞️ I’m looking to collaborate on Cool projects
