@@ -115,10 +115,6 @@ Real-time telemetry + monitoring integration
 
 ---
 
-📊 GitHub Stats
-
-# Add your GitHub stats badge here (optional)
-
 
 ---
 
